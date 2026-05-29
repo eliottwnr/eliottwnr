@@ -58,4 +58,4 @@ Programmation orientée objet - Architecture logicielle
 ## En ce moment ⚡
 
 - 🖥️ Je mets en place mon propre serveur **Proxmox** pour héberger et gérer des VMs, avec un partage de fichiers via **Samba** et un accès distant sécurisé grâce à **Tailscale**
-- 🌐 Je construis mon **portfolio personnel** — à venir bientôt
+- 🌐 Je construis mon **portfolio personnel** - à venir bientôt
