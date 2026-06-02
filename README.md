@@ -46,9 +46,9 @@ Programmation orientée objet - Architecture logicielle
 | Projet | Description | Technos |
 |--------|-------------|---------|
 | 🎮 [Nuit de l'info 2025](https://nuitdelinfo.com/) | Hackathon national 24h | `HTML` `CSS` `JS`  |
-| ☠️ Jeu du pendu | Jeu en ligne de commande | `C` |
-| 🧬 Jeu de la vie | Simulation cellulaire simplifiée | `Python` |
 | 🖼️ [Morphologie mathématique](https://fr.wikipedia.org/wiki/Morphologie_math%C3%A9matique) | Flous, ouvertures, fermetures sur images | `C` `C#` |
+| ☠️  Jeu du pendu | Jeu en ligne de commande | `C` |
+| 🎵 mp3 downloader | Interface graphique pour [yt-dlp](https://github.com/yt-dlp/yt-dlp) | `Python` `C` |
 | 🕐 Horloge NTP | Horloge/chronomètre synchronisée réseau | `C` |
 
 ➡️ Tous mes projets sur **[GitLab @eliott.wnr](https://gitlab.com/eliott.wnr)**
