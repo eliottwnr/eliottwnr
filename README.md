@@ -21,7 +21,23 @@ Programmation orientée objet - Architecture logicielle
 
 ## Technologies 🛠️
 
-[![Icons](https://skillicons.dev/icons?i=arch,neovim,c,cs,python,java,bash,html,css,js,php,mysql,git,github,gitlab,markdown,latex&theme=dark)](https://skillicons.dev)
+[![Arch Linux](https://skillicons.dev/icons?i=arch&theme=dark)](https://archlinux.org)
+[![Neovim](https://skillicons.dev/icons?i=neovim&theme=dark)](https://neovim.io)
+[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://en.cppreference.com/w/c)
+[![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://learn.microsoft.com/dotnet/csharp/)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com)
+[![Bash](https://skillicons.dev/icons?i=bash&theme=dark)](https://www.gnu.org/software/bash/)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://www.php.net)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com)
+[![Markdown](https://skillicons.dev/icons?i=markdown&theme=dark)](https://www.markdownguide.org)
+[![LaTeX](https://skillicons.dev/icons?i=latex&theme=dark)](https://www.latex-project.org)
 
 ---
 
