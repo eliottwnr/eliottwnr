@@ -3,7 +3,7 @@
 > Étudiant en informatique à l'**Université de Strasbourg** depuis 2025,  
 > dans les lignes de code depuis **2019**.
 
-[![Archlinux](https://skillicons.dev/icons?i=arch,neovim,git,c,cs,python,java,bash&theme=dark)](https://skillicons.dev)
+![Icons](https://skillicons.dev/icons?i=arch,neovim,git,c,cs,python,java,bash,html5,css3,js,php&theme=dark)](https://skillicons.dev)
 
 ---
 
