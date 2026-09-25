@@ -21,7 +21,7 @@ Programmation orientée objet - Architecture logicielle
 
 ## Technologies 🛠️
 
-[![Icons](https://skillicons.dev/icons?i=arch,neovim,c,cs,python,java,bash,html5,css3,js,php,mysql,git,github,gitlab,markdown,latex&theme=dark)](https://skillicons.dev)
+[![Icons](https://skillicons.dev/icons?i=arch,neovim,c,cs,python,java,bash,html,css,js,php,mysql,git,github,gitlab,markdown,latex&theme=dark)](https://skillicons.dev)
 
 ---
 
