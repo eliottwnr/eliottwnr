@@ -14,8 +14,7 @@ je m'intéresse aussi à la **conception logicielle** (POO, architecture, UML) e
 
 ## Intérêts 🔍
 
-Systèmes UNIX - Administration système - Programmation bas niveau
-Programmation orientée objet - Architecture logicielle
+Systèmes UNIX - Administration système - Programmation bas niveau - Programmation orientée objet - Architecture logicielle
 
 ---
 
